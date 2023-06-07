@@ -1,0 +1,1 @@
+Wireshark is a popular network protocol analyzer or packet sniffer tool. It is an open-source software program that allows you to capture and analyze network traffic in real-time. Developed by the Wireshark development team, it is available for multiple platforms, including Windows, macOS, and Linux.
